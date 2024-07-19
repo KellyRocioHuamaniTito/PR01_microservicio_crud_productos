@@ -1,0 +1,2 @@
+1 Listar productos
+http://localhost:8080/productos
